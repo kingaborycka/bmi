@@ -16,3 +16,5 @@ https://www.kaggle.com/datasets/freego1/bmi-data, dostęp: 24.01.2022
 - diabetes.csv<br>
 https://www.kaggle.com/datasets/houcembenmansour/predict-diabetes-based-on-diagnostic-measures , dostęp: 24.01.2022
 
+Plik `bmi_data.py` bazuje na danych z `bmi_data.csv`, natomiast `diabetes.py` wykorzystuje zbiór danych `diabetes.csv`. Stworzenie oddzielnych modeli miało na celu porównanie prędkości i jakości ich uczenia.
+
